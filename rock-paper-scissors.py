@@ -25,8 +25,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
-
 import random
 Hand_signs = [rock, paper, scissors]
 choices = ['rock', 'paper', 'scissors']
